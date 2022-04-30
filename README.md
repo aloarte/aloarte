@@ -23,5 +23,5 @@ My trip started programming Android with Java, and now I work professionally 100
 
 ## Contact
 
-<a target="_blank" href="[linkedin.com/in/alvaro-loarte-rodriguez](https://www.linkedin.com/in/alvaro-loarte-rodriguez)/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+[![LinkedIn](https://img.shields.io/badge/Linkedin-1295c2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/alvaro-loarte-rodriguez)
 
