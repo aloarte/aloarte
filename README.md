@@ -19,8 +19,7 @@ My trip started programming Android with Java, and now I work professionally 100
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloarte&theme=radical&border_radius=4.9)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloarte&theme=radical&layout=compact&exclude_repo=EDBReports)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aloarte&theme=radical&border_radius=4.9&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## Contact
