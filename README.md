@@ -22,10 +22,10 @@ My trip started programming Android with Java, and now I work professionally 100
 
 ## Main repositories
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aloarte&repo=Skintker&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aloarte&repo=Hollow-Minds&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aloarte&repo=skintkvault&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aloarte&repo=featuresExtractor&theme=nord)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aloarte&repo=Skintker&theme=nord)](https://github.com/aloarte/Skintker)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aloarte&repo=Hollow-Minds&theme=nord)](https://github.com/aloarte/Hollow-Minds) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aloarte&repo=skintkvault&theme=nord)](https://github.com/aloarte/skintkvault) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aloarte&repo=featuresExtractor&theme=nord)](https://github.com/aloarte/featuresExtractor) 
 
 ## GitHub Stats
 
